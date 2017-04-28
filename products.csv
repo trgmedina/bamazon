@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quantity
+1,TV,Electronics,400,20
+2,Apple,Grocery,2,50
+3,Toilet Paper,Household,3,200
+4,Mattress,Household,600,10
+5,Tire Pump,Outdoor,15,300
+6,Batteries,Electronics,8,1000
+7,Book,Entertainment,10,100
+8,Backpack,Outdoor,50,100
+9,Sunglasses,Clothing,250,75
+10,Flip Flops,Clothing,30,6000
