@@ -12,7 +12,7 @@ dbConnection.connect(function(err) {
   productSearch();
 });
 
-//shows all ID, Products, Department, and Price of all products
+//shows inventory of products
 var productSearch = function() {
   var query = "SELECT * FROM products";
   dbConnection.query(query, function(err, res) {
