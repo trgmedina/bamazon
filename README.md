@@ -26,7 +26,7 @@ In order to run the application, the user must have installed mySQL and Inquirer
 ```
 Examples:
 
-npm install myql
+npm install mysql
 npm install inquirer
 ```
 
